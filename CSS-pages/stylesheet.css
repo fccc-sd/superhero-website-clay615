@@ -1,0 +1,47 @@
+#home-page
+{
+    text-align: center;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+
+body
+{
+    background-color: hwb(0 0% 79%);
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+nav a:link
+{
+    color:white;
+    text-decoration: none;
+}
+
+nav a:visited
+{
+    color:white;
+}
+
+nav a:hover
+{
+    text-decoration: underline;
+}
+
+#navigation-bar {
+    list-style:none;
+}
+
+nav li 
+{
+    display: inline;
+    padding-right: 90px;
+    padding-left: 90px;
+}
+
+#important
+{
+    font-size: 1.1em;
+    text-decoration: underline;
+}
