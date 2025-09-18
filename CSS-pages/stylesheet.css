@@ -45,3 +45,9 @@ nav li
     font-size: 1.1em;
     text-decoration: underline;
 }
+
+#reasons-why
+{
+    padding-right: 75px;
+    padding-left: 75px;
+}
