@@ -31,6 +31,7 @@ nav a:hover
 
 #navigation-bar {
     list-style:none;
+    padding-bottom: 50px;
 }
 
 nav li 
@@ -51,3 +52,4 @@ nav li
     padding-right: 75px;
     padding-left: 75px;
 }
+
