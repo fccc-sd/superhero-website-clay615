@@ -7,11 +7,11 @@
 
 body
 {
-    background-color: hwb(0 0% 79%);
+    background-color: lab(44.02% 69.44 58.27);
     color: white;
     text-align: center;
     font-size: 1.5em;
-    background-image: url(../photos/download.jpg);
+    background-image: url(../photos/istockphoto-1343778073-612x612.jpg);
 }
 
 nav a:link
