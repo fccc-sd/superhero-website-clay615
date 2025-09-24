@@ -1,9 +1,12 @@
 #home-page
 {
     text-align: center;
-    padding-left: 350px;
-    padding-right: 350px;
+    padding-left: 200px;
+    padding-right: 200px;
+    
 }
+
+
 
 body
 {
@@ -58,9 +61,4 @@ h3
 {
     text-align: center;
     padding-top: 60px;
-}
-
-#float
-{
-    float: left;
 }
