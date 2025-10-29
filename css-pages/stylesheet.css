@@ -41,8 +41,8 @@ nav a:hover
 nav li 
 {
     display: inline;
-    padding-right: 90px;
-    padding-left: 90px;
+    padding-right: 60px;
+    padding-left: 60px;
 }
 
 #important
