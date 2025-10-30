@@ -1,0 +1,86 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+#container
+{
+    width: 850px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+header
+{
+    background-color: orange;
+}
+
+nav
+{
+    background-color: yellow;
+}
+
+aside
+{
+    background-color: purple;
+}
+
+section
+{
+    background-color: green;
+}
+
+footer
+{
+    background-color: blue;
+}
+
+body
+{
+    background-color: lab(44.02% 69.44 58.27);
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+    background-image: url(../photos/istockphoto-1343778073-612x612.jpg);
+}
+
+nav a:link
+{
+    color:white;
+    text-decoration: none;
+}
+
+nav a:visited
+{
+    color:white;
+}
+
+nav a:hover
+{
+    text-decoration: underline;
+}
+
+#navigation-bar {
+    list-style:none;
+    padding-bottom: 50px;
+}
+
+nav li 
+{
+    display: inline;
+    padding-right: 60px;
+    padding-left: 60px;
+}
+
+#important
+{
+    font-size: 1.1em;
+    text-decoration: underline;
+}
+
+h3
+{
+    text-align: center;
+    padding-top: 60px;
+}
